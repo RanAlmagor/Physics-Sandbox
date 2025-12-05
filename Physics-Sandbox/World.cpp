@@ -48,7 +48,7 @@ void World::update()
                 std::swap(cells[a], cells[b]);
                 };
 
-            // --- חול ושלג ---
+            
             if (type == CellType::SAND || type == CellType::SNOW) {
                 if (cells[idxBelow] == CellType::WATER) {
                     cells[idx] = CellType::WATER;
@@ -92,7 +92,7 @@ void World::update()
                     }
                 }
             }
-            // --- מים ---
+            
             else if (type == CellType::WATER) {
                 if (isEmpty(idxBelow)) {
                     swapCells(idx, idxBelow);
