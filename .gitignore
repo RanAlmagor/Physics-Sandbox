@@ -1,0 +1,26 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# IntelliSense / PCH cache
+*.ipch
+
+# Build outputs
+Debug/
+Release/
+x64/
+x86/
+*.obj
+*.pdb
+*.log
+
+# CMake (אם תשתמש בעתיד)
+CMakeFiles/
+CMakeCache.txt
+cmake-build-*/
+
+# SFML / VS
+*.aps
+*.ilk
+*.idb
