@@ -154,8 +154,8 @@ Some ideas for future improvements:
 - HUD overlay with current material, brush size and controls
 - Sound effects when placing/erasing particles
 - More materials (lava, oil, gas, acid…)
-- Saving & loading “scenes”
-- Simple main menu / pause screen
+
+
 
 ---
 
