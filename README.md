@@ -61,12 +61,12 @@ a neat little demo you can actually play with.
 > and update the file names below if needed.
 
 <p align="center">
+  <img src="assets/screenshots/sandbox_twilight_clean.png" alt="Physics Sandbox – Clean Twilight Background" width="800"/>
+</p>
+<p align="center">
   <img src="assets/screenshots/sandbox_water_mountains.png" alt="Physics Sandbox – Water, Sand and Mountains" width="800"/>
 </p>
 
-<p align="center">
-  <img src="assets/screenshots/sandbox_twilight_clean.png" alt="Physics Sandbox – Clean Twilight Background" width="800"/>
-</p>
 
 ---
 
