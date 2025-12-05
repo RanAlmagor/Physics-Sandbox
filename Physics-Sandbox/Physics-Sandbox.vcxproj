@@ -133,10 +133,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Brush.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="World.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Brush.hpp" />
     <ClInclude Include="Constants.hpp" />
     <ClInclude Include="World.hpp" />
   </ItemGroup>

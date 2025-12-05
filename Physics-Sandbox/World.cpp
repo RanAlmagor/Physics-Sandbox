@@ -152,3 +152,7 @@ void World::draw(sf::RenderWindow& window) {
         }
     }
 }
+
+void World::clear() {
+    std::fill(cells.begin(), cells.end(), CellType::EMPTY);
+}
