@@ -22,5 +22,5 @@ public:
     void update();
     void draw(sf::RenderWindow& window);
 
-    void clear();   // <-- הוספה
+    void clear();   
 };
