@@ -1,4 +1,4 @@
-# 🌌 Physics Sandbox – SFML Particle Playground
+# 🌌 Physics Sandbox – 2D Particle Simulation in Modern C++ and SFML
 
 A small but polished **2D physics sandbox** written in modern C++ and **SFML 3**.  
 Draw sand, water, stone and snow into a twilight mountain scene and watch them fall,
